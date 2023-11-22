@@ -1,3 +1,4 @@
 pixiv-pictures
 *.bak
 compiled
+*.exe
