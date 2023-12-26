@@ -1,0 +1,2 @@
+# Racket写的一个图床下载器
+其实就是带gui的一个webget，支持async下载多个链接
